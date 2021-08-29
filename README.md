@@ -14,5 +14,5 @@ Built entirely using html and CSS ,in future boostrap and javascript will be add
 ## Support and contact details
 Incase of any issues support or guide email simonkairu14@gmail.com
 ### License
-*{Determine the license under which this application can be used.  See below for more details on licensing.}*
+MIT
 Copyright (c) {year} **{List of contributors or company name}**
