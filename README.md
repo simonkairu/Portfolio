@@ -15,4 +15,4 @@ Built entirely using html and CSS ,in future boostrap and javascript will be add
 Incase of any issues support or guide email simonkairu14@gmail.com
 ### License
 MIT
-Copyright (c) {year} **{List of contributors or company name}**
+Copyright (c) {2021} Simon Kairu
