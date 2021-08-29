@@ -5,6 +5,8 @@
 This is a simple portfolio landing page consisting of home,about and project section
 ## Project link
 https://simonkairu.github.io/Portfolio/
+### Design 
+https://www.figma.com/file/IFLmEB0wQzbpzjuYHZ7UWl/portfolio
 ## Setup/Installation Requirements
 The website has no special installation requirent.
 Works best on chrome.
